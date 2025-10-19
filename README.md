@@ -27,8 +27,8 @@ predict graph path: runs\train_aug_final2\predict
 ## Installation
 ### 1. Clone this Repository
 ```
-git clone  
-cd
+git clone https://github.com/MingChun234/NTNU_DL_HW1
+cd NTNU_DL_HW1
 ```
 ### 2. Install dependencies
 此專案使用Conda建立執行環境
@@ -42,4 +42,3 @@ conda activate yolov8
 python train_waldo.py
 ```
 
-"# NTNU_DL_HW1" 
